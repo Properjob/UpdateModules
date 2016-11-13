@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="GeneralSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Descriptions" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Module2&lt;/string&gt;
+  &lt;string&gt;A Simplified version of Enums that can be used globally&lt;/string&gt;
+  &lt;string&gt;A collection of string utilities incl. Piece, Extract and Contains&lt;/string&gt;
+  &lt;string&gt;A collection of system utilities incl. setRegKey, getRegKey&lt;/string&gt;
+  &lt;string&gt;A helper module for the simplified Enums&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="RequiredModules" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">StringUtils,SysUtils,ZEnumHelper,SimpleEnum</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
